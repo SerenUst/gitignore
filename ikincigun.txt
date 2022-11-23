@@ -1,0 +1,9 @@
+Git Github ikici gun ilk deneme 
+Git Github ikici gun ikinci deneme 
+Git Github ikici gun seren  deneme 
+<<<<<<< HEAD
+sdjskallskdjfhdjklsşaisşdlkfjurıeopwğaiq
+master
+=======
+aysan branchı ilk denme
+>>>>>>> aysan
