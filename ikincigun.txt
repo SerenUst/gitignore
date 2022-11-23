@@ -7,3 +7,4 @@ master
 =======
 aysan branchı ilk denme
 >>>>>>> aysan
+Git Github ucuncu gun seren branchı ilk deneme 
