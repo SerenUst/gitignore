@@ -6,5 +6,6 @@ sdjskallskdjfhdjklsşaisşdlkfjurıeopwğaiq
 master
 =======
 aysan branchı ilk denme
->>>>>>> aysan
 MASTER BRANCH YENİ EKLEME
+Git Github ucuncu gun seren branchı ilk deneme 
+
