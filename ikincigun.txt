@@ -7,3 +7,4 @@ master
 =======
 aysan branchı ilk denme
 >>>>>>> aysan
+MASTER BRANCH YENİ EKLEME
